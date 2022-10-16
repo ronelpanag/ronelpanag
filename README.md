@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ***Ronel Pantaleon***
+- 👀 I’m interested in Web Development and DevOps.
+- 🌱 I’m currently learning how to create enterprise solutions using Azure.
+- 📫 How to reach me on [LinkedIn](https://do.linkedin.com/in/ronelpanag)
